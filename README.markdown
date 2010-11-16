@@ -8,7 +8,7 @@ This is the Testmod for the Spring RTS engine, to allow easy testing of recent c
 To use this mutator, click on download and extract to
 
 ### on windows
-My Files\My Games\Spring\mods\springtest.sdd
+My Documents\My Games\Spring\mods\springtest.sdd
 
 ### on linux
 ~/.spring/mods/springtest.sdd
