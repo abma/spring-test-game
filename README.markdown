@@ -10,6 +10,7 @@ To use this mutator, click on download and extract to
 ### on windows
 My Files\My Games\Spring\mods\springtest.sdd
 
-### Linux
+### on linux
 ~/.spring/mods/springtest.sdd
 
+That's all!
