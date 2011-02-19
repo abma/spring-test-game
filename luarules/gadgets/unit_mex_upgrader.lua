@@ -150,8 +150,8 @@ function processMexData(mexDefID, mexDef, upgradePairs)
   return upgradePairs 
 end 
 
-function isBuilder(unitDef) 
-  return (unitDef.isBuilder and unitDef.canAssist) 
+function isBuilder(unitDef)
+  return (unitDef.buildSpeed > 0)
 end 
 
 function registerUnits() 
