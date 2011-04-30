@@ -8,9 +8,10 @@ This is the Test game for the Spring RTS engine, to allow easy testing of recent
 To use this mutator, click on download and extract to
 
 ### on windows
-My Documents\My Games\Spring\games\spring-test
+My Documents\\My Games\\Spring\\games\\spring-test.sdd
 
 ### on linux
 ~/.spring/games/spring-test.sdd
 
 That's all!
+
